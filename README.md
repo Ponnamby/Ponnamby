@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Ponnamby [Yamini Ponnambalam]
-- 🌱 I’m currently into Power BI, SQL Python and Azure Fundamentals
+- 🌱 I’m currently into Power BI, SQL, Python and Azure Fundamentals
 - 💞️ I’m looking for a career in Data Analysis 
 - 📫 How to reach me: ponnambalamyamini@gmail.com
 
