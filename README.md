@@ -25,19 +25,46 @@
 
 ---
 
-## 🚀 Tech Stack
+<tr>
+<!-- LEFT -->
+<td width="62%" valign="top" align="left">
 
-### 📊 Analytics & BI
-Power BI • Microsoft Fabric • DAX • Power Query  
+<h2>🧰 Tech Stack</h2>
 
-### 🗄️ Data Engineering
-MS SQL Server • Azure Synapse • ETL • Data Modeling  
+<!-- BI -->
+<p>
+<b>📊 BI & Analytics</b><br>
+<img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=000000" />
+<img src="https://img.shields.io/badge/DAX-005CAB?style=flat-square" />
+<img src="https://img.shields.io/badge/Power_Query-217346?style=flat-square&logo=microsoft-excel&logoColor=white" />
+</p>
 
-### ⚙️ Business Systems
-DESK 365 • Power Automate • SharePoint • Jira   
+<!-- Data Engineering -->
+<p>
+<b>🗄️ Data Engineering</b><br>
+<img src="https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white" />
+<img src="https://img.shields.io/badge/Azure_Synapse-0078D4?style=flat-square&logo=microsoftazure&logoColor=white" />
+<img src="https://img.shields.io/badge/ETL-6E40C9?style=flat-square" />
+</p>
 
-### 💻 Programming
-Python • SQL 
+<!-- Automation -->
+<p>
+<b>⚙️ Automation</b><br>
+<img src="https://img.shields.io/badge/Power_Automate-0066FF?style=flat-square&logo=microsoftpowerautomate&logoColor=white" />
+<img src="https://img.shields.io/badge/SharePoint-0078D4?style=flat-square&logo=sharepoint&logoColor=white" />
+<img src="https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white" />
+</p>
+
+<!-- Programming -->
+<p>
+<b>💻 Programming</b><br>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/SQL-CC2927?style=flat-square" />
+<img src="https://img.shields.io/badge/Excel_VBA-217346?style=flat-square&logo=microsoftexcel&logoColor=white" />
+</p>
+
+</td>
+</tr>
 
 ---
 
@@ -82,7 +109,8 @@ Python • SQL
 
 I’m actively looking for opportunities in:
 
-✔ Data Analyst  
+✔ Power BI Reporting Analyst
+✔ Fabric Analyst
 ✔ BI Developer  
 ✔ Data Engineer (Junior/Entry)  
 
