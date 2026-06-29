@@ -11,76 +11,65 @@
 
 <tr>
 
-<!-- LEFT COLUMN -->
-<td width="50%" valign="top">
+<!-- LEFT: ABOUT ME -->
+<td width="70%" valign="top">
 
 <h3>👨‍🎓 About Me</h3>
 
-🎓 Master of Management (Business Data Analytics)    
-             <img width="200" alt="image" src="https://github.com/user-attachments/assets/19b3e44f-b6e7-46d9-bfde-6ac56a188e3c" />
+🎓 Master of Management (Business Data Analytics) <br>
+<img width="180" src="https://github.com/user-attachments/assets/19b3e44f-b6e7-46d9-bfde-6ac56a188e3c" />
+ <h3>💼 Let’s Work Together</h3>
 
-🚀 Interested roles: Business Intelligence / Data Engineering   
+I’m actively looking for opportunities in:
+
+✔ Power BI Reporting Analyst
+✔ Fabric Analyst
+✔ BI Developer  
+✔ Data Engineer (Junior/Entry)  
+
+📍 Based in Ontario, Canada  
+📧 Email: yaminiponna98@gmail.com  
+💼 LinkedIn: https://www.linkedin.com/in/yaminiponnambalam  
+💻 GitHub: https://github.com/Ponnamby 
 
 </td>
 
-<!-- RIGHT COLUMN -->
-<td width="50%" valign="top">
+<!-- RIGHT: TECH STACK -->
+<td width="30%" valign="top">
 
-<h3>⚙️ What I Do Best</h3>
+<h3>⚙️ Tech Stack</h3>
 
-📊 Build interactive Power BI dashboards for decision-making  
-🧱 Design scalable data models & ETL pipelines  
-🔄 Automate reporting using Power Automate  
-🗄️ Work with relational & cloud databases  
-
-</td>
-
-</tr>
-
-</table> 
-
----
-
-<tr>
-<!-- LEFT -->
-<td width="62%" valign="top" align="left">
-
-<h2>🧰 Tech Stack</h2>
-
-<!-- BI -->
-<p>
-<b>📊 BI & Analytics</b><br>
+📊 <b>BI & Analytics</b><br>
 <img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=000000" />
 <img src="https://img.shields.io/badge/DAX-005CAB?style=flat-square" />
 <img src="https://img.shields.io/badge/Power_Query-217346?style=flat-square&logo=microsoft-excel&logoColor=white" />
-</p>
 
-<!-- Data Engineering -->
-<p>
-<b>🗄️ Data Engineering</b><br>
+
+
+🗄️ <b>Data Engineering</b><br>
 <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white" />
 <img src="https://img.shields.io/badge/Azure_Synapse-0078D4?style=flat-square&logo=microsoftazure&logoColor=white" />
 <img src="https://img.shields.io/badge/ETL-6E40C9?style=flat-square" />
-</p>
 
-<!-- Automation -->
-<p>
-<b>⚙️ Automation</b><br>
+
+
+⚙️ <b>Automation</b><br>
 <img src="https://img.shields.io/badge/Power_Automate-0066FF?style=flat-square&logo=microsoftpowerautomate&logoColor=white" />
 <img src="https://img.shields.io/badge/SharePoint-0078D4?style=flat-square&logo=sharepoint&logoColor=white" />
 <img src="https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white" />
-</p>
 
-<!-- Programming -->
-<p>
-<b>💻 Programming</b><br>
+
+
+💻 <b>Programming</b><br>
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
 <img src="https://img.shields.io/badge/SQL-CC2927?style=flat-square" />
 <img src="https://img.shields.io/badge/Excel_VBA-217346?style=flat-square&logo=microsoftexcel&logoColor=white" />
-</p>
 
 </td>
+
 </tr>
+
+</table>
 
 ---
 
@@ -198,19 +187,7 @@
 
 ---
 
-## Let’s Work Together
-
-I’m actively looking for opportunities in:
-
-✔ Power BI Reporting Analyst
-✔ Fabric Analyst
-✔ BI Developer  
-✔ Data Engineer (Junior/Entry)  
-
-📍 Based in Ontario, Canada  
-📧 Email: yaminiponna98@gmail.com  
-💼 LinkedIn: https://www.linkedin.com/in/yaminiponnambalam  
-💻 GitHub: https://github.com/Ponnamby  
+ 
 
 ---
 ## ⭐ Fun Fact 
