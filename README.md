@@ -1,9 +1,9 @@
 <!-- HERO BANNER -->
 <p align="center">
-  <img src="https://dummyimage.com/600x100/00/ffffff&text=Yamini+Ponnambalam" />
+  <img src="https://dummyimage.com/600x100/00/ffffff&text=Yamini+Ponnambalam" width="40%" />
 </p>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?lines=Business+Data+Analyst;Power+BI+Developer;SQL+%7C+Python+%7C+Data+Reporting;Turning+Data+Into+Insights&center=true&width=500&height=50">
+  <img src="https://readme-typing-svg.herokuapp.com?lines=Welcome+to+my+Intro;Business+Data+Analyst;Power+BI+Developer;SQL+%7C+Python+%7C+Data+Reporting;Turning+Data+Into+Insights&center=true&width=500&height=50">
 </p>
 
 ---
@@ -18,6 +18,7 @@
 
 🎓 Master of Management (Business Data Analytics) <br>
 <img width="180" src="https://github.com/user-attachments/assets/19b3e44f-b6e7-46d9-bfde-6ac56a188e3c" />
+ 
  <h3>💼 Let’s Work Together</h3>
 
 I’m actively looking for opportunities in:
@@ -26,7 +27,7 @@ I’m actively looking for opportunities in:
 ✔ Fabric Analyst
 ✔ BI Developer  
 ✔ Data Engineer (Junior/Entry)  
-
+<br>
 📍 Based in Ontario, Canada  
 <img  alt="image" src="https://github.com/user-attachments/assets/c52f7e38-e298-498b-a704-498d0d01023d" width="4%"/>
  Email: yaminiponna98@gmail.com  <br>
