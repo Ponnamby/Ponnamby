@@ -28,9 +28,12 @@ I’m actively looking for opportunities in:
 ✔ Data Engineer (Junior/Entry)  
 
 📍 Based in Ontario, Canada  
-📧 Email: yaminiponna98@gmail.com  
-💼 LinkedIn: https://www.linkedin.com/in/yaminiponnambalam  
-💻 GitHub: https://github.com/Ponnamby 
+<img  alt="image" src="https://github.com/user-attachments/assets/c52f7e38-e298-498b-a704-498d0d01023d" width="3%"/>
+ Email: yaminiponna98@gmail.com  <br>
+<img  alt="image" src="https://github.com/user-attachments/assets/0f76b8e3-138c-430e-b1ff-87679fa6af98" width="4%" />
+ LinkedIn: https://www.linkedin.com/in/yaminiponnambalam   <br>
+<img  alt="image" src="https://github.com/user-attachments/assets/ff772247-fc6c-444c-8c5d-e80e60bb47f7" width="5%"/>
+ GitHub: https://github.com/Ponnamby 
 
 </td>
 
