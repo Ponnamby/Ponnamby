@@ -7,21 +7,37 @@
 </p>
 
 ---
+<table width="100%">
 
-## About Me
+<tr>
 
-🎓 Master of Management (Business Data Analytics) – University of Windsor   
-⚙️ Focused on BI Reporting and Dashboards, ETL pipelines & Semantic Data Modeling  
-🚀 Interested in Business Intelligence / Data Engineering roles  
+<!-- LEFT COLUMN -->
+<td width="50%" valign="top">
 
----
+<h3>👨‍🎓 About Me</h3>
 
-##  What I Do Best
+🎓 Master of Management (Business Data Analytics)    
+             <img width="200" alt="image" src="https://github.com/user-attachments/assets/19b3e44f-b6e7-46d9-bfde-6ac56a188e3c" />
 
-- 📊 Build interactive Power BI dashboards for decision-making  
-- 🧱 Design scalable data models & ETL pipelines  
-- 🔄 Automate reporting using Power Automate   
-- 🗄️ Work with relational & cloud databases  
+🚀 Interested roles: Business Intelligence / Data Engineering   
+
+</td>
+
+<!-- RIGHT COLUMN -->
+<td width="50%" valign="top">
+
+<h3>⚙️ What I Do Best</h3>
+
+📊 Build interactive Power BI dashboards for decision-making  
+🧱 Design scalable data models & ETL pipelines  
+🔄 Automate reporting using Power Automate  
+🗄️ Work with relational & cloud databases  
+
+</td>
+
+</tr>
+
+</table> 
 
 ---
 
