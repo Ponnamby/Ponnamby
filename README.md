@@ -54,6 +54,7 @@ I’m actively looking for opportunities in:
 <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white" />
 <img src="https://img.shields.io/badge/Azure_Synapse-0078D4?style=flat-square&logo=microsoftazure&logoColor=white" />
 <img src="https://img.shields.io/badge/ETL-6E40C9?style=flat-square" />
+<img src="https://img.shields.io/badge/Microsoft_Fabric-512BD4?style=flat-square&logo=microsoft&logoColor=white" />
 
 
 
@@ -61,6 +62,7 @@ I’m actively looking for opportunities in:
 <img src="https://img.shields.io/badge/Power_Automate-0066FF?style=flat-square&logo=microsoftpowerautomate&logoColor=white" />
 <img src="https://img.shields.io/badge/SharePoint-0078D4?style=flat-square&logo=sharepoint&logoColor=white" />
 <img src="https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white" />
+<img src="https://img.shields.io/badge/DESK365-FF6A00?style=flat-square" />
 
 
 
