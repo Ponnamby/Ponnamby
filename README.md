@@ -97,13 +97,13 @@
 <!-- PROJECT 2 -->
 <td width="50%" valign="top">
 
-<a href="https://github.com/Ponnamby/My-Work-Samples/blob/main/Forecast%20Analysis%20and%20Prediction_Goldman%20Sachs_Forage_YP_organized.pdf">
+<a href="https://github.com/Ponnamby/My-Work-Samples/blob/main/Forecast%20Analysis%20and%20Prediction_Goldman%20Sachs%20Forage_YP_organized.pdf">
 
 <img  alt="image" src="https://github.com/user-attachments/assets/d922ae05-b5db-4a63-a89b-b5d53da23dd9" width="70%" />
 
 </a>
 
-<a href="https://github.com/Ponnamby/My-Work-Samples/blob/main/Forecast%20Analysis%20and%20Prediction_Goldman%20Sachs_Forage_YP_organized.pdf">
+<a href=https://github.com/Ponnamby/My-Work-Samples/blob/main/Forecast%20Analysis%20and%20Prediction_Goldman%20Sachs%20Forage_YP_organized.pdf>
 <h3>📈 Goldman Sachs Forecast Model</h3>
 </a>
 
@@ -120,13 +120,13 @@
 <!-- PROJECT 3 -->
 <td width="50%" valign="top">
 
-<a href="https://github.com/Ponnamby/My-Work-Samples">
+<a href=https://github.com/Ponnamby/My-Work-Samples/blob/main/CMS%20HealthCare%20Data%20Project%20By%20YaminiPonnambalam.pdf>
 
 <img  alt="image" src="https://github.com/user-attachments/assets/e2782cbb-f32f-473a-ace8-ff16be7b8d24" width="70%" />
 
 </a>
 
-<a href="https://github.com/Ponnamby/My-Work-Samples">
+<a href=https://github.com/Ponnamby/My-Work-Samples/blob/main/CMS%20HealthCare%20Data%20Project%20By%20YaminiPonnambalam.pdf>
 <h3>🏥 Healthcare Analytics</h3>
 </a>
 
@@ -140,13 +140,13 @@
 <!-- PROJECT 4 -->
 <td width="50%" valign="top">
 
-<a href="https://github.com/Ponnamby/My-Work-Samples">
+<a href=https://github.com/Ponnamby/My-Work-Samples/blob/main/Accenture_Forage_Data%20Analysis%20%26%20Visualization_User%20Engagement_Social%20Media%20Report_YaminiPonnambalam.pdf>
 
 <img  alt="image" src="https://github.com/user-attachments/assets/b8989609-2d49-4e03-bd99-1b742c84929b" width="70%" />
 
 </a>
 
-<a href="https://github.com/Ponnamby/My-Work-Samples">
+<a href=https://github.com/Ponnamby/My-Work-Samples/blob/main/Accenture_Forage_Data%20Analysis%20%26%20Visualization_User%20Engagement_Social%20Media%20Report_YaminiPonnambalam.pdf>
 <h3>⚙️ Capstone: Predictive Modeling</h3>
 </a>
 
