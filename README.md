@@ -8,7 +8,7 @@
 
 ---
 
-## 🎯 About Me
+## About Me
 
 🎓 Master of Management (Business Data Analytics) – University of Windsor   
 ⚙️ Focused on BI Reporting and Dashboards, ETL pipelines & Semantic Data Modeling  
@@ -16,7 +16,7 @@
 
 ---
 
-## 🧠 What I Do Best
+##  What I Do Best
 
 - 📊 Build interactive Power BI dashboards for decision-making  
 - 🧱 Design scalable data models & ETL pipelines  
@@ -68,21 +68,98 @@
 
 ---
 
-## 📂 Featured Projects
+<h2>📂 Featured Projects</h2>
 
-### 📊 BI & Dashboards
-- Power BI Sales Performance Dashboard  
-- Healthcare Analytics Dashboard  
-- KPI Tracking & Executive Reporting  
+<table width="100%">
 
-### 🏥 Data Projects
-- Healthcare Data Analysis (SQL + Power BI)  
-- Customer Behavior Analysis  
-- ETL Pipeline Projects  
+<tr>
 
-### ⚙️ Automation Projects
-- Power Automate Reporting System  
-- Excel → Power BI Automation Workflows  
+<!-- PROJECT 1 -->
+<td width="50%" valign="top">
+
+<a href="https://github.com/Ponnamby/My-Work-Samples/blob/main/Finance%20KPI%20Dashboard%20PDF%20YP.pdf">
+
+<img  alt="image" src="https://github.com/user-attachments/assets/a9dd78a2-8def-4507-b0e4-72d0f3407884" width="70%" />
+
+</a>
+
+<a href="https://github.com/Ponnamby/My-Work-Samples/blob/main/Finance%20KPI%20Dashboard%20PDF%20YP.pdf">
+<h3>📊 Finance & Sales KPI Dashboard</h3>
+</a>
+
+<p>Power BI dashboard analyzing KPIs, sales trends, and performance gaps.</p>
+
+<b>Tools:</b> Power BI • DAX • Excel • SQL
+
+</td>
+
+
+<!-- PROJECT 2 -->
+<td width="50%" valign="top">
+
+<a href="https://github.com/Ponnamby/My-Work-Samples/blob/main/Forecast%20Analysis%20and%20Prediction_Goldman%20Sachs_Forage_YP_organized.pdf">
+
+<img  alt="image" src="https://github.com/user-attachments/assets/d922ae05-b5db-4a63-a89b-b5d53da23dd9" width="70%" />
+
+</a>
+
+<a href="https://github.com/Ponnamby/My-Work-Samples/blob/main/Forecast%20Analysis%20and%20Prediction_Goldman%20Sachs_Forage_YP_organized.pdf">
+<h3>📈 Goldman Sachs Forecast Model</h3>
+</a>
+
+<p>5-year financial forecasting model using Excel.</p>
+
+<b>Tools:</b> Excel • VBA • Financial Modeling
+
+</td>
+
+</tr>
+
+<tr>
+
+<!-- PROJECT 3 -->
+<td width="50%" valign="top">
+
+<a href="https://github.com/Ponnamby/My-Work-Samples">
+
+<img  alt="image" src="https://github.com/user-attachments/assets/e2782cbb-f32f-473a-ace8-ff16be7b8d24" width="70%" />
+
+</a>
+
+<a href="https://github.com/Ponnamby/My-Work-Samples">
+<h3>🏥 Healthcare Analytics</h3>
+</a>
+
+<p>Workforce staffing and turnover analysis for healthcare systems.</p>
+
+<b>Tools:</b> SQL • Power BI • Excel
+
+</td>
+
+
+<!-- PROJECT 4 -->
+<td width="50%" valign="top">
+
+<a href="https://github.com/Ponnamby/My-Work-Samples">
+
+<img  alt="image" src="https://github.com/user-attachments/assets/b8989609-2d49-4e03-bd99-1b742c84929b" width="70%" />
+
+</a>
+
+<a href="https://github.com/Ponnamby/My-Work-Samples">
+<h3>⚙️ Capstone: Predictive Modeling</h3>
+</a>
+
+<p>Python-based predictive modeling and forecasting using ML.</p>
+
+<b>Tools:</b> Python • Pandas • Scikit-learn
+
+</td>
+
+</tr>
+
+</table>
+
 
 > 💡 More projects coming soon as I build real-world solutions.
 
@@ -105,7 +182,7 @@
 
 ---
 
-## 💼 Let’s Work Together
+## Let’s Work Together
 
 I’m actively looking for opportunities in:
 
@@ -120,7 +197,9 @@ I’m actively looking for opportunities in:
 💻 GitHub: https://github.com/Ponnamby  
 
 ---
-
-## ⭐ Fun Closing
-
+## ⭐ Fun Fact 
 > “Without data, you're just another person with an opinion.” – W. Edwards Deming
+ <img width="480" height="480" alt="WordIAgreeGIFbyINTOACTION" src="https://github.com/user-attachments/assets/e9912b74-6e4d-4c5d-91f2-dc4e23b70786" />
+
+
+
